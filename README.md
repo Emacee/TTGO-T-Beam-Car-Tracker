@@ -88,8 +88,6 @@ These are the keys you will need from the TTN console (marked yellow).
 
 ![TTGO-T-Beam](images/ttgo-t-beam.jpg)
 
-- **A6 GSM/GPRS module** <sup>(work in progress, not yet implemented!)</sup>
-	- For places without LoRaWAN coverage - sends a link to Google Maps position via an SMS
 
 ![A6 GSM/GPRS](images/a6-gsm-gprs-dev-board.jpg)
 
@@ -171,8 +169,6 @@ Power
 
 ## TODO
 
-- A6 GSM module is not yet implemented
-	- I'll be adding this "backup" comms feature someday
 - Add serial terminal console via WiFi AP
 	- To watch output & debug messages (Websockets?)
 
