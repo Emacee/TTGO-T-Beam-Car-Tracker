@@ -4,8 +4,8 @@
 #include <TinyGPS++.h>
 #include <HardwareSerial.h>
 
-#define GPS_TX 12
-#define GPS_RX 15
+#define GPS_TX 34 // Hardware v1.1 compatible
+#define GPS_RX 12 // Hardware v1.1 compatible
 
 class gps
 {
