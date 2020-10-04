@@ -89,8 +89,6 @@ These are the keys you will need from the TTN console (marked yellow).
 ![TTGO-T-Beam](images/ttgo-t-beam.jpg)
 
 
-![A6 GSM/GPRS](images/a6-gsm-gprs-dev-board.jpg)
-
 - **BME/BMP280 module**
 	- For temperature, humidity, and atmospheric pressure reporting
 	- Fully implemented and working with the sketch
